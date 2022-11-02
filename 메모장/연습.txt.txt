@@ -1,1 +1,9 @@
 연습이다
+git 연결 방법
+
+1. git hub에 새로운 Repositorie 를 만들고
+
+2. 연결하고 픈 폴더에 git here 실행
+
+3. git 에 git clone <Repositorie 주소>
+
